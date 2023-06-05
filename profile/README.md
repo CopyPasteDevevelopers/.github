@@ -1,3 +1,3 @@
 ## Hi Semuanya 👋
 
-Selamat datang di CodeWithDamas's Github Repositories
+Selamat datang di Copy Paste Developer's Github Repositories
